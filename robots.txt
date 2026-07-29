@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+
+Sitemap: https://sprengercrippen.com/sitemap.xml
+Host: https://sprengercrippen.com
